@@ -1,16 +1,16 @@
-Run the code : 
-Go to root directory of project 
+Run the code : \
+Go to root directory of project \
 
-cd server
-npm i
-nodemon server.js
+cd server\
+npm i\
+nodemon server.js\
 
 
-cd clint
-npm i
-npm start
+cd clint\
+npm i\
+npm start\
 
-both frontend and backend will run 
+both frontend and backend will run \
 
 
 
